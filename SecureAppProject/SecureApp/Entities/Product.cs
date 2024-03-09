@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace AspnetIdentityRoleBasedTutorial.Data
+namespace SecureApp.Entities
 {
 
     [Table("Product")]

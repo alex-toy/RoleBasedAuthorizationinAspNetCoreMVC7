@@ -8,7 +8,25 @@ Topics will be covered here:
 - Role based authorization in .NET core mvc
 - Manage your user profile in identity
 
-## Nuget Packages
+
+
+## Secure ApAPIp
+
+### Nuget Packages
+
+```
+Microsoft.AspNetCore.Authentication.JwtBearer
+Microsoft.AspNetCore.Identity.EntityFrameworkCore
+Microsoft.AspNetCore.OpenApi
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+```
+
+
+
+## Secure App
+
+### Nuget Packages
 
 ```
 Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
